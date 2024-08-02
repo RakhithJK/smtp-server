@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.14.0](https://github.com/RakhithJK/smtp-server/compare/v3.13.4...v3.14.0) (2024-08-02)
+
+
+### Features
+
+* add ability to customize auth required error message ([e0f3e64](https://github.com/RakhithJK/smtp-server/commit/e0f3e64aa55246aa0ee42d9a6b5303fe2a802226))
+
+
+### Bug Fixes
+
+* 193 ([657ac6e](https://github.com/RakhithJK/smtp-server/commit/657ac6e9964e5c6613be144450a8a0f61862888c))
+* **deploy:** added autorelease ([0dbc8e1](https://github.com/RakhithJK/smtp-server/commit/0dbc8e11412982395283b354c90e9ab443a7232a))
+* **deps:** Bumped deps ([e096b12](https://github.com/RakhithJK/smtp-server/commit/e096b129af13a2c2d4893a8690ba06fe00fe36d2))
+* **deps:** Bumped deps ([0a2d601](https://github.com/RakhithJK/smtp-server/commit/0a2d6015b69a538b2b615d172b0c5903529370f6))
+* **deps:** use punycode module ([438c617](https://github.com/RakhithJK/smtp-server/commit/438c617d6ff46121fe76b90da2f1f34220ba7ae4))
+* **release:** fixed Git URL on package.json ([5876626](https://github.com/RakhithJK/smtp-server/commit/5876626aed6239ff0de4999fdf583febdda38744))
+
 ## [3.13.4](https://github.com/nodemailer/smtp-server/compare/v3.13.3...v3.13.4) (2024-04-12)
 
 
