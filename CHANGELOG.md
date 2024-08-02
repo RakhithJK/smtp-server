@@ -1,5 +1,34 @@
 # Changelog
 
+## [3.13.4](https://github.com/nodemailer/smtp-server/compare/v3.13.3...v3.13.4) (2024-04-12)
+
+
+### Bug Fixes
+
+* **deps:** Bumped deps ([e096b12](https://github.com/nodemailer/smtp-server/commit/e096b129af13a2c2d4893a8690ba06fe00fe36d2))
+
+## [3.13.3](https://github.com/nodemailer/smtp-server/compare/v3.13.2...v3.13.3) (2024-02-29)
+
+
+### Bug Fixes
+
+* **deps:** Bumped deps ([0a2d601](https://github.com/nodemailer/smtp-server/commit/0a2d6015b69a538b2b615d172b0c5903529370f6))
+
+## [3.13.2](https://github.com/nodemailer/smtp-server/compare/v3.13.1...v3.13.2) (2024-02-02)
+
+
+### Bug Fixes
+
+* **release:** fixed Git URL on package.json ([5876626](https://github.com/nodemailer/smtp-server/commit/5876626aed6239ff0de4999fdf583febdda38744))
+
+## [3.13.1](https://github.com/nodemailer/smtp-server/compare/v3.13.0...v3.13.1) (2024-02-02)
+
+
+### Bug Fixes
+
+* **deploy:** added autorelease ([0dbc8e1](https://github.com/nodemailer/smtp-server/commit/0dbc8e11412982395283b354c90e9ab443a7232a))
+* **deps:** use punycode module ([438c617](https://github.com/nodemailer/smtp-server/commit/438c617d6ff46121fe76b90da2f1f34220ba7ae4))
+
 ## v3.13.0 2023-08-15
 
 -   new event handler `onSecure`
